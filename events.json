@@ -1,0 +1,23 @@
+[
+  {
+    "name": "facebook/react",
+    "description": "A library for building user interfaces.",
+    "url": "https://github.com/facebook/react",
+    "language": "JavaScript",
+    "stars": 230000
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stars": 170000
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "url": "https://github.com/vercel/next.js",
+    "language": "JavaScript",
+    "stars": 130000
+  }
+]
